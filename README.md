@@ -17,5 +17,8 @@
     - Desigining a MNIST classifier using convolutional neural networks.
 
 ## 결과
-<img width="622" alt="image" src="https://user-images.githubusercontent.com/77106988/217471022-4a771c0a-9e26-40a8-83a4-e4c2a1a49673.png">
+- 실습환경: 구글 코랩 (Google Colab)
+
+<img width="1261" alt="image" src="https://user-images.githubusercontent.com/77106988/217481395-66306dbf-389b-4582-a361-00372e6e198f.png">
+
 
